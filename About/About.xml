@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ModMetaData>
+  <name>Name Your Entities</name>
+  <author>ferny</author>
+  <packageId>ferny.NameYourEntities</packageId>
+  <description>Adds a button to name your entities.</description>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Anomaly</li>
+	</loadAfter>
+</ModMetaData>
