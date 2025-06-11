@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Name your Entities\1.5\Source\obj\Debug\NameYourEntities.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Name your Entities\1.5\Source\obj\Debug\NameYourEntities.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Name your Entities\1.5\Assemblies\NameYourEntities.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Name your Entities\1.5\Source\obj\Debug\NameYourEntities.dll
